@@ -1,0 +1,33 @@
+{
+  "name": "chevron",
+  "version": "1.0.0",
+  "description": "HPP Awesome Boilerplate",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Jacome -  HPP",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-es2015": "^6.22.0",
+    "browser-sync": "^2.18.12",
+    "dropkickjs": "^2.1.10",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.0.0",
+    "gulp-uglify": "^2.0.0"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "browser-sync": "^2.18.12",
+    "bulma": "^0.7.1",
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.0"
+  }
+}
